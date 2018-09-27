@@ -31,3 +31,7 @@ The examples in this book require Python >= 2.7 or >= 3.3 and pip, the PyPA reco
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
+
+# Book
+https://github.com/GitEasonXu/Data-Science-books/blob/master/Mastering%20Machine%20Learning%20with%20scikit-learn%2C%202nd%20Edition.pdf
